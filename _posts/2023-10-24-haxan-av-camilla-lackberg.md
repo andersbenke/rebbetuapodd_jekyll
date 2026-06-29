@@ -22,4 +22,4 @@ https://open.spotify.com/episode/6LcxUEcAvEfVBImxUYp312?si=d9bfe358f6f641f8
 
 ## Lyssna på poddavsnittet på Youtube
 
-https://www.youtube.com/watch?v=bOgnDolXXr8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bOgnDolXXr8" frameborder="0" allowfullscreen></iframe>

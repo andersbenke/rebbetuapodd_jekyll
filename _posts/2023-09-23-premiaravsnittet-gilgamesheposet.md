@@ -16,7 +16,7 @@ Håller det för en modern publik? Lyssna och bedöm själv!
 
 ## Lyssna på podavsnittet Gilgamesheposet på Youtube
 
-https://www.youtube.com/watch?v=aBx4\_TxsLSo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aBx4_TxsLSo" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på poddavsnittet Gilgamesheposet på Spotify
 

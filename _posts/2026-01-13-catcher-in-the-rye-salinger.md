@@ -16,7 +16,7 @@ coverImage: "Catcher-in-the-rye-2.webp"
 
 ## Lyssna på podden om The Catcher in the Rye på YouTube
 
-https://www.youtube.com/watch?v=efghYL3UJgw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/efghYL3UJgw" frameborder="0" allowfullscreen></iframe>
 
 I detta avsnitt fördjupar vi oss i **The Catcher in the Rye**, J.D. Salingers inflytelserika roman från 1951, ofta betraktad som en av de mest betydelsefulla amerikanska klassikerna från 1900-talet. Boken har lästs, älskats, förbjudits och debatterats i över sju decennier – och fortsätter att väcka starka reaktioner hos nya generationer läsare.
 

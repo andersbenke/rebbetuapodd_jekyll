@@ -16,8 +16,7 @@ Vi skäggiga avhandlar hans och andra mer fantasirika syn på ämnet historia oc
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px;" src="https://embed.podcasts.apple.com/us/podcast/atlantica/id1706156838?i=1000628476157" height="175" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
 ## Lyssna på podavsnittet Atlantica - En recension på YouTube
-
-https://www.youtube.com/watch?v=\_Q3yWM8ahtA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Q3yWM8ahtA" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på podavsnittet Atlantica - En recension på Spotify
 

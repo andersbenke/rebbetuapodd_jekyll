@@ -14,7 +14,7 @@ De tvenne beskäggade går på djupet med Moby Dick. Eller på havet. Det viktig
 
 ## Lyssna på podavsnittet Moby Dick på Youtube
 
-https://www.youtube.com/watch?v=vQT368IEjCo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQT368IEjCo" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på podavsnittet Moby Dick på Spotify
 

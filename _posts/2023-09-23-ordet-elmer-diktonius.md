@@ -14,7 +14,7 @@ Vi lyssnar på ord ur Ordet av  den finske ordens mästare, poeten Elmer Dikton
 
 ## Lyssna på poddavsnittet Ordet (Dikt av Elmer Diktonius) - En recension på YouTube
 
-https://www.youtube.com/watch?v=FJw5j3hl0HU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FJw5j3hl0HU" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på poddavsnittet Ordet (Dikt av Elmer Diktonius) - En recension på Spotify
 

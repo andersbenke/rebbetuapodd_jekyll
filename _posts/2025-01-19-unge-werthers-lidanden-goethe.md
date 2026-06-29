@@ -22,7 +22,7 @@ Efter att ha lyssnat på vårt poddavsnitt om den dryge.. Unge herr Werthers lid
 
 ## Lyssna på poddavsnittet på YouTube
 
-https://www.youtube.com/watch?v=cOJOeW1-Clg&list=PLrVmxyaSj\_wTOLJqu6ayykkU75a8m5xzJ&index=1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cOJOeW1-Clg" frameborder="0" allowfullscreen></iframe>
 
 ## Om Johann Wolfgang von Goethe
 

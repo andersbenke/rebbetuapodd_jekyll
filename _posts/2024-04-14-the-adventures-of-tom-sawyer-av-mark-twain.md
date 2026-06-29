@@ -13,8 +13,8 @@ I detta avsnitt av podcasten, avhandlar vi [Tom Sawyers äventyr](https://en.wik
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px;" src="https://embed.podcasts.apple.com/us/podcast/tom-sawyer/id1706156838?i=1000652397308" height="175" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
 ## Lyssna på poddavsnittet på YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b1xij_9XKME" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=b1xij\_9XKME&t=521s
 
 ## Lyssna på poddavsnittet på Spotify
 

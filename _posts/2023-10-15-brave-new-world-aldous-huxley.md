@@ -18,7 +18,7 @@ Brave New World vidrör lycka, det perfekta samhället, genmanipulering och andr
 
 ## Lyssna på poddavsnittet på Youtube
 
-https://www.youtube.com/watch?v=S8N0w4RVmqU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S8N0w4RVmqU" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på poddavsnittet på Spotify
 

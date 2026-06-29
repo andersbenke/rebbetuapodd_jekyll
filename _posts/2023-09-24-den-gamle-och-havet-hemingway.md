@@ -14,7 +14,7 @@ Tvenne bibliotekarier tar sig en Nobelpristagare och tillika (på gott och ont) 
 
 ## Lyssna på poddavsnittet på Youtube
 
-https://www.youtube.com/watch?v=agbmkFI8CXw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/agbmkFI8CXw" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på poddavsnittet på Spotify
 

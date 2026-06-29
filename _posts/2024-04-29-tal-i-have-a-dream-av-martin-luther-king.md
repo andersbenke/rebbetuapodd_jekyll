@@ -17,8 +17,7 @@ Häng med när vi delar våra tankar, insikter och historiska betraktelser kring
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px;" src="https://embed.podcasts.apple.com/us/podcast/i-have-a-dream/id1706156838?i=1000653112949" height="175" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
 ## Lyssna på poddavsnittet på YouTube
-
-https://www.youtube.com/watch?v=m\_3qQMjPRP8&t=334s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m_3qQMjPRP8" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på poddavsnittet på Spotify
 

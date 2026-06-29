@@ -20,7 +20,7 @@ En annan av oss kände också djupt obehag. Lyssna så får ni veta varför!
 
 ## Lyssna på poddavsnittet på YouTube
 
-https://www.youtube.com/watch?v=savfa2-v9Ew
+<iframe width="560" height="315" src="https://www.youtube.com/embed/savfa2-v9Ew" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på poddavsnittet på Spotify
 

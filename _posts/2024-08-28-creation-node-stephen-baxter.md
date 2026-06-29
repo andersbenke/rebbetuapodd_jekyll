@@ -18,7 +18,7 @@ Hard science fiction, som Stephen Baxter håller sig främst till, är en underg
 
 ## Lyssna på poddavsnittet på YouTube
 
-https://www.youtube.com/watch?v=S3k-brqQmvM&list=PLrVmxyaSj\_wTOLJqu6ayykkU75a8m5xzJ&index=3&t=2s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3k-brqQmvM" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på poddavsnittet på Apple Podcasts
 

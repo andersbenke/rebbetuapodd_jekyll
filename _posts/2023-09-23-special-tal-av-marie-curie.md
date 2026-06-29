@@ -14,7 +14,7 @@ Med Marie Curies upptäckt av radium och andra radioaktiva ämnen trodde vetensk
 
 ## Lyssna på poddavsnittet Special: Marie Curie på YouTube
 
-https://www.youtube.com/watch?v=W6aDRSVtnbc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W6aDRSVtnbc" frameborder="0" allowfullscreen></iframe>
 
 ## Lyssna på poddavsnittet Special: Marie Curie på Spotify
 
