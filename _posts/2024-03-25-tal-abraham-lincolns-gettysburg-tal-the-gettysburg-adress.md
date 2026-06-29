@@ -3,7 +3,9 @@ title: "Tal: Abraham Lincolns Gettysburgtal (The Gettysburg Adress)"
 date: 2024-03-25
 categories: 
   - "poddavsnitt"
-coverImage: "the-gettysburg-address-gettyimages.webp"
+header:
+  image: /rebbetuapodd_jekyll/images/the-gettysburg-address-gettyimages.webp
+  teaser: /rebbetuapodd_jekyll/images/the-gettysburg-address-gettyimages.webp
 ---
 
 Lyssna på podden Biblioteket i Rebbetuaröd när vi analyserar och avhandlar och avviker något från [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln)s nog mest berömda tal - [the Gettysburg Adress](https://en.wikipedia.org/wiki/Gettysburg_Address), som vi anglosaxiskt benämner det.

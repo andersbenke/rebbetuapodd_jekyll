@@ -3,7 +3,9 @@ title: "The Catcher in the Rye av J. D. Salinger"
 date: 2026-01-13
 categories: 
   - "poddavsnitt"
-coverImage: "Catcher-in-the-rye-2.webp"
+header:
+  image: /rebbetuapodd_jekyll/images/Catcher-in-the-rye-2.webp
+  teaser: /rebbetuapodd_jekyll/images/Catcher-in-the-rye-2.webp
 ---
 
 ## Lyssna på podden om The Catcher in the Rye på Apple Music

@@ -3,7 +3,9 @@ title: "The Fall of the House of Usher av Edgar Allan Poe"
 date: 2024-02-28
 categories: 
   - "poddavsnitt"
-coverImage: "Edgar_Allan_Poe_circa_1849_restored_squared_off.webp"
+header:
+  image: /rebbetuapodd_jekyll/images/Edgar_Allan_Poe_circa_1849_restored_squared_off.webp
+  teaser: /rebbetuapodd_jekyll/images/Edgar_Allan_Poe_circa_1849_restored_squared_off.webp
 ---
 
 Kura nu i en miasma av ohyggligt anade fasor som viskar i själen på namnlösa vis. Podden i Rebbetuaröd och dess fasansfulla tvenne skäggige bibliotekarier har gett sig på en av den gotiska litteraturens absoluta klassiker - [The Fall of The House of Usher](https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher) av en lika klassisk författare av fasa & skräck, [Edgar Allan Poe](https://en.wikipedia.org/wiki/Edgar_Allan_Poe).

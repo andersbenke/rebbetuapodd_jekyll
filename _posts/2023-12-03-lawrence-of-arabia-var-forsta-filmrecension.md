@@ -3,7 +3,9 @@ title: "Lawrence of Arabia - vår första filmrecension!"
 date: 2023-12-03
 categories: 
   - "poddavsnitt"
-coverImage: "Lawrence_of_arabia_ver3_xxlg.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/Lawrence_of_arabia_ver3_xxlg.jpg
+  teaser: /rebbetuapodd_jekyll/images/Lawrence_of_arabia_ver3_xxlg.jpg
 ---
 
 Nu så vänner, blir det öken,  episka vyer och historiskt drama! För att inte tala om en mycket blåögd man. Podden har nämligen tagit steget ut i filmvärlden och vi inleder med en mycket klassisk klassiker - [Lawrence of Arabia](https://en.wikipedia.org/wiki/Lawrence_of_Arabia_\(film\)). I detta mycket påkostade verk, baserat på [T E Lawrences](https://en.wikipedia.org/wiki/T._E._Lawrence) inbladning i arabernas revolt mot Ottomanerna under första världskriget och Englands finger mitt i alla kakburkar, är det mycket öken. På ett dåligt vis? Lyssna på podcasten så får du veta!

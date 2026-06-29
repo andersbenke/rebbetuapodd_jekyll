@@ -3,7 +3,9 @@ title: "O Captain! My Captain! av Walt Whitman"
 date: 2025-02-17
 categories: 
   - "poddavsnitt"
-coverImage: "Walt_Whitman_-_George_Collins_Cox.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/Walt_Whitman_-_George_Collins_Cox.jpg
+  teaser: /rebbetuapodd_jekyll/images/Walt_Whitman_-_George_Collins_Cox.jpg
 ---
 
 [Walt Whitmans dikt O Captain! My Captain!](https://en.wikipedia.org/wiki/O_Captain!_My_Captain!) är en av de mest kända hyllningarna till en ledare – skriven efter mordet på USA:s president Abraham Lincoln 1865. Med starka bilder av ett skepp som nått sin hamn, men en kapten som tragiskt nog inte får uppleva triumfen, är det en dikt som fortfarande berör läsare världen över.

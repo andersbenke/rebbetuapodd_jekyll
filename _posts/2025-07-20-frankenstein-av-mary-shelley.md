@@ -3,7 +3,9 @@ title: "Frankenstein av Mary Shelley"
 date: 2025-07-20
 categories: 
   - "poddavsnitt"
-coverImage: "frankenstein-mary-shelly.png"
+header:
+  image: /rebbetuapodd_jekyll/images/frankenstein-mary-shelly.png
+  teaser: /rebbetuapodd_jekyll/images/frankenstein-mary-shelly.png
 ---
 
 Välkommen åter till litteraturpodden Biblioteket i Rebbetuaröd, kära lyssnare! Efter ett litet sommaravbrott tar vi oss an ett mycket passande ämne i dessa tider med AI och hittepåliv/intelligenser - Frankenstein av Mary Shelley! Vi dömer språket, talar om att herr Percy Shelley var en.. intressant man och som vanligt drar vi iväg i diskussioner som inte har med saken att göra. Ett är säkert - boken börjar inte som i filmerna.

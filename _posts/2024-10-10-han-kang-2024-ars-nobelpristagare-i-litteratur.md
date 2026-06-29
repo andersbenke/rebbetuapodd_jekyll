@@ -4,7 +4,9 @@ date: 2024-10-10
 categories: 
   - "information"
   - "nyheter"
-coverImage: "HanKang.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/HanKang.jpg
+  teaser: /rebbetuapodd_jekyll/images/HanKang.jpg
 ---
 
 Kära lyssnare och läsare - 2024 års Nobelpristagare i litteratur är tillkännagiven. Detta år gick priset till Sydkorea och [Han Kang](https://en.wikipedia.org/wiki/Han_Kang)! Vi gratulerar och höjer ett glas soju till hennes eviga ära och lovar att så snart biblioteksmässigt möjligt att återkomma med ett avsnitt av vår podcast Biblioteket i Rebbeturöd tillägnat [2024 års Nobelpristagare i litteratur Han Kang](https://en.wikipedia.org/wiki/Han_Kang).

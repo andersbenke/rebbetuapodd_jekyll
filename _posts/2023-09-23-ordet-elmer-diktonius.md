@@ -3,7 +3,9 @@ title: "Ordet - Dikt av Elmer Diktonius"
 date: 2023-09-23
 categories: 
   - "poddavsnitt"
-coverImage: "elmer_diktonius_ung.jpeg"
+header:
+  image: /rebbetuapodd_jekyll/images/elmer_diktonius_ung.jpeg
+  teaser: /rebbetuapodd_jekyll/images/elmer_diktonius_ung.jpeg
 ---
 
 Vi lyssnar på ord ur Ordet av  den finske ordens mästare, poeten Elmer Diktonius. Ja, han hette faktiskt så. På riktigt.

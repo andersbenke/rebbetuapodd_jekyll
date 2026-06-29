@@ -3,7 +3,9 @@ title: "Nyårsklockan (Ring, klocka, ring)"
 date: 2024-12-29
 categories: 
   - "poddavsnitt"
-coverImage: "Alfred_Lord_Tennyson_1869.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/Alfred_Lord_Tennyson_1869.jpg
+  teaser: /rebbetuapodd_jekyll/images/Alfred_Lord_Tennyson_1869.jpg
 ---
 
 ## Lyssna på poddavsnittet på Spotify

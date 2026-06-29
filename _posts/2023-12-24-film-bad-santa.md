@@ -3,7 +3,9 @@ title: "Film: Bad Santa"
 date: 2023-12-24
 categories: 
   - "poddavsnitt"
-coverImage: "Bad_Santa_film.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/Bad_Santa_film.jpg
+  teaser: /rebbetuapodd_jekyll/images/Bad_Santa_film.jpg
 ---
 
 Det finns klassiska julsagor, som [A Christmas Carol](https://rebbetuapodd.se/a-christmas-carol-av-charles-dickens/). Det finns fina julsagor, som berättar om hur en stressad karriärist hittar kärleken i Shitville, Tenesse. Många sagor om kärlek och julens (förmenta) budkap om good will to all men.

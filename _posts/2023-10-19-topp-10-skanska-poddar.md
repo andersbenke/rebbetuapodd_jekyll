@@ -3,7 +3,9 @@ title: "Topp 10 skånska poddar"
 date: 2023-10-19
 categories: 
   - "nyheter"
-coverImage: "627px-Skane_2017-05-13_35024696400.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/627px-Skane_2017-05-13_35024696400.jpg
+  teaser: /rebbetuapodd_jekyll/images/627px-Skane_2017-05-13_35024696400.jpg
 ---
 
 Skåne är en intressant plats. Alltså finns det såklart många andra poddar än Biblioteket i Rebbetuaröd (jo, jag vet, det är lite otänkbart, men vi har faktiskt lite konkurrenter). Här är en liten lista på 10 stycken populära poddar, med anknytning till Skåne.

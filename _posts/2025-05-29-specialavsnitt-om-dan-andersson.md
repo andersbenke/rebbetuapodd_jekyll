@@ -3,7 +3,9 @@ title: "Specialavsnitt: Om Dan Andersson"
 date: 2025-05-29
 categories: 
   - "poddavsnitt"
-coverImage: "Dan-Andersson-med-hatt.jpeg"
+header:
+  image: /rebbetuapodd_jekyll/images/Dan-Andersson-med-hatt.jpeg
+  teaser: /rebbetuapodd_jekyll/images/Dan-Andersson-med-hatt.jpeg
 ---
 
 Dan Andersson (1888–1920) var en svensk poet, författare och visdiktare, känd för sina melankoliska dikter och skildringar av finnmarkens hårda liv. Hans verk präglas av vemod, naturlyrik, arbetarklassens kamp och mysticism. Bland hans mest kända dikter finns Omkring tiggarn från Luossa, Jag väntar vid min stockeld och Spelmannen. Hans texter har inspirerat generationer av musiker och poeter och är en viktig del av svensk litteratur och vistradition. Trots sitt korta liv lämnade han ett rikt arv som fortsätter att beröra människor

@@ -3,7 +3,9 @@ title: "Röda Rummet av August Strindberg"
 date: 2023-09-23
 categories: 
   - "poddavsnitt"
-coverImage: "slide4.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/slide4.jpg
+  teaser: /rebbetuapodd_jekyll/images/slide4.jpg
 ---
 
 Har denna roman nyckeln till våra två skäggiga hjärtan? Kunde Strindberg skrivkonsten så väl som hans rykte låter berätta? Lyssna får du se.

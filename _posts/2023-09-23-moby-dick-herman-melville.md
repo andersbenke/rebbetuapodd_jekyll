@@ -3,7 +3,9 @@ title: "Moby Dick av Herman Melville"
 date: 2023-09-23
 categories: 
   - "poddavsnitt"
-coverImage: "moby-dick.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/moby-dick.jpg
+  teaser: /rebbetuapodd_jekyll/images/moby-dick.jpg
 ---
 
 De tvenne beskäggade går på djupet med Moby Dick. Eller på havet. Det viktiga är att havet är viktigt. Låt Ishmael berätta varför och se vad vi tycker om en bok som länge ansetts vara ca världshistoriens bästa någonsin? Håller vi med om att dessa saltstänkta ord står sig genom alla tider? Lyssna får du se.

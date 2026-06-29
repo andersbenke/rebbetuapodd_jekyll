@@ -3,7 +3,9 @@ title: "Brave New World av Aldous Huxley"
 date: 2023-10-15
 categories: 
   - "poddavsnitt"
-coverImage: "gettyimages-517398572sq.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/gettyimages-517398572sq.jpg
+  teaser: /rebbetuapodd_jekyll/images/gettyimages-517398572sq.jpg
 ---
 
 I dagens avsnitt av podden Biblioteket i Rebbetuaröd diskuterar vi Brave New World av den (mycket\*) brittiske författaren [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley). Vi valde just detta verk idag  - liksom vi läste [1984 av George Orwell](https://dev.xn--rebbetuard-mcb.se/1984-av-george-orwell/) - för att uppmärksamma att [Banned Books Weeks lanseras i Sverige](https://www.svenskapen.se/banned-books) för första gången i år. Biblioteket i Rebbetuaröd står såklart passionerat och bestämt på det fria ordet, yttrandefriheten och anti-censurens sida.

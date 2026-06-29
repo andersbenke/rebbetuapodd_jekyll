@@ -3,7 +3,9 @@ title: "Nils Holgerssons underbara resa genom Sverige av Selma Lagerlöf"
 date: 2024-06-12
 categories: 
   - "poddavsnitt"
-coverImage: "Selma_Lagerlof.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/Selma_Lagerlof.jpg
+  teaser: /rebbetuapodd_jekyll/images/Selma_Lagerlof.jpg
 ---
 
 Selma Lagerlöf (1858-1940) föddes på gården Mårbacka i Värmland och blev en av Sveriges mest framstående författare. Hon utbildade sig till lärare och arbetade i Landskrona innan hon blev författare på heltid. Lagerlöf debuterade med "Gösta Berlings saga" 1891, vilket markerade början på en framgångsrik litterär karriär. Hon vann Nobelpriset i litteratur 1909, som den första kvinnan att få denna utmärkelse. Lagerlöf blev medlem i Svenska Akademien 1914 och var engagerad i samhällsfrågor, särskilt kvinnors rättigheter. Hennes verk kännetecknas ofta av en blandning av realism, magi och folklore, och de har haft en betydande påverkan på svensk litteratur.

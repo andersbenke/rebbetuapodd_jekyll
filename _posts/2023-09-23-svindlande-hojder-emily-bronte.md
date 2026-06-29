@@ -3,7 +3,9 @@ title: "Svindlande höjder av Emily Brontë"
 date: 2023-09-23
 categories: 
   - "poddavsnitt"
-coverImage: "bronte.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/bronte.jpg
+  teaser: /rebbetuapodd_jekyll/images/bronte.jpg
 ---
 
 I detta avsnitt tar vi på oss fracken och den engelska höga hatten. Vi undersöker hur Emily Brontës enda roman står sig och ifall den innehåller så mycket män som dricker te på herrgårdar som man kan tro.

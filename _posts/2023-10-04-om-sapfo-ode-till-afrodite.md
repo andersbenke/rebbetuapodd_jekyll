@@ -3,7 +3,9 @@ title: "Om Sapfo & hennes dikt \"Ode till Afrodite\""
 date: 2023-10-04
 categories: 
   - "poddavsnitt"
-coverImage: "9872599b-3fdd-4492-8d96-754abdc822d2.webp"
+header:
+  image: /rebbetuapodd_jekyll/images/9872599b-3fdd-4492-8d96-754abdc822d2.webp
+  teaser: /rebbetuapodd_jekyll/images/9872599b-3fdd-4492-8d96-754abdc822d2.webp
 ---
 
 Idag, kära lyssnare och besökare till Biblioteket i Rebbetuaröd, som ett led i att vi [uppmärksammar Banned Books Week](https://www.svenskapen.se/banned-books) med blogginlägg, [poddinlägg](https://rebbetuapodd.se/poddavsnitt-1984-av-george-orwell/) och på andra mediala vis å Internet till, har vi vandrat nästan lika långt tillbaka i historien som när vi avhandlade [Gilgamesh-eposet!](https://rebbetuapodd.se/premiaravsnittet-gilgamesheposet/) De tvenne skäggiga bibliotekarierna [talar i vår podd](https://open.spotify.com/show/3Iq0fcKLkX1McKE7yhV6BH) om den forntida [poeten och lyrikern Sapfo](https://sv.wikipedia.org/wiki/Sapfo) (en av flera möjliga stavningar i svensk transkribering från mycket gammal grekiska). Hon blev nämligen - säger populär historia - förbjuden av en nog lika skäggig påve. [Eller blev hon det](https://blogs.bl.uk/digitisedmanuscripts/2017/12/the-destruction-of-sapphos-works.html)? Därom tvista de lärde och diskutera två skägg.

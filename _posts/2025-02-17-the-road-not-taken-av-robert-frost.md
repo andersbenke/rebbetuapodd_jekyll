@@ -3,7 +3,9 @@ title: "The Road Not Taken av Robert Frost"
 date: 2025-02-17
 categories: 
   - "poddavsnitt"
-coverImage: "den-amerikanske-poeten-robert-frost-ansikte.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/den-amerikanske-poeten-robert-frost-ansikte.jpg
+  teaser: /rebbetuapodd_jekyll/images/den-amerikanske-poeten-robert-frost-ansikte.jpg
 ---
 
 Idag tar vi oss an Robert Frost (1874–1963) som var en amerikansk poet känd för sina naturinspirerade dikter och djupa reflektioner över livet, ofta skrivna i traditionell versform. Han vann fyra Pulitzerpriser och hans mest berömda dikter, som _The Road Not Taken_ och _Stopping by Woods on a Snowy Evening_, utforskar teman som val, ensamhet och mänsklig erfarenhet. Givetvis spårar allt ur och vi hamnar hos Goethe och Ranelid med som sig bör.

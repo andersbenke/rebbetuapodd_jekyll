@@ -3,7 +3,9 @@ title: "Special: Charles Bukowski"
 date: 2025-06-26
 categories: 
   - "poddavsnitt"
-coverImage: "6832_b_2358.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/6832_b_2358.jpg
+  teaser: /rebbetuapodd_jekyll/images/6832_b_2358.jpg
 ---
 
 Denna gång tar vi med er på en liten resa genom en brutal, rått äkta och än mer brutal poet och författares liv och stil - Charles Bukowski.

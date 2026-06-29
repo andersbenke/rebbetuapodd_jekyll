@@ -3,7 +3,9 @@ title: "I andarnas våld - podden avhandlar spirtualismen"
 date: 2024-02-14
 categories: 
   - "poddavsnitt"
-coverImage: "spirit_image_1.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/spirit_image_1.jpg
+  teaser: /rebbetuapodd_jekyll/images/spirit_image_1.jpg
 ---
 
 I dagens avsnitt, kära lyssnare, av podden Biblioteket i Rebbetuaröd, far vi iväg i mer eteriska spörsmål. Vi båda skäggiga bibliotekarier diskuterar spiritualismen och dess syster spiritismen, som den uppstod i början av 1800-talet i främst USA (även om andra delar av världen deltog i både anden och verkligheten). Vi diskuterar och analyserar varför man trodde som man gjorde om seanser, andeväsen och den tröst somliga fann i detta. Daniel framför viss kritik av ämnet, speciellt som det manifesteras i moderna tider.

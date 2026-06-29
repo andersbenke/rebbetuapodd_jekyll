@@ -3,7 +3,9 @@ title: "Shōgun av James Clavell"
 date: 2023-11-19
 categories: 
   - "poddavsnitt"
-coverImage: "woocut-samurai-1.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/woocut-samurai-1.jpg
+  teaser: /rebbetuapodd_jekyll/images/woocut-samurai-1.jpg
 ---
 
 Välkomna, lyssnare-sama! I detta avsnitt från podcasten Biblioteket i Rebbetuaröd, har de två skäggiga herrarna läst [_Shōgun_](https://sv.wikipedia.org/wiki/Shogun_\(roman\)) av [James Clavell](https://sv.wikipedia.org/wiki/James_Clavell), mycket beroende på den [remake](https://www.looper.com/622395/shogun-release-date-cast-plot/) av den [klassiska TV-serien](https://sv.wikipedia.org/wiki/Shogun_\(TV-serie\)) som kommer på våra skärmar i en ej avlägsen framtid.

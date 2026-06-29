@@ -3,7 +3,9 @@ title: "Specialavsnitt: Hur fan tänkte ni där egentligen? (om podden & dess up
 date: 2023-11-13
 categories: 
   - "poddavsnitt"
-coverImage: "den.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/den.jpg
+  teaser: /rebbetuapodd_jekyll/images/den.jpg
 ---
 
 Det slog oss på [podcasten Biblioteket i Rebbetuaröd](https://open.spotify.com/show/3Iq0fcKLkX1McKE7yhV6BH) - [de tvenne skäggiga](https://rebbetuapodd.se/personal/) - att vi aldrig riktigt poddat om, tja, oss! Vad vill vi? Vad handlar podden om och varför är den på det viset som den är?

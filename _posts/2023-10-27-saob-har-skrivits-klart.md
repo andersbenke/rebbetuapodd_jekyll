@@ -3,7 +3,9 @@ title: "SAOB är äntligen klar! #SAOB"
 date: 2023-10-27
 categories: 
   - "nyheter"
-coverImage: "svenska_adakdemiens_valsprak.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/svenska_adakdemiens_valsprak.jpg
+  teaser: /rebbetuapodd_jekyll/images/svenska_adakdemiens_valsprak.jpg
 ---
 
 Då var det äntligen dags - [SAOB har gått från A till Ö och är äntligen klar](https://www.svt.se/nyheter/lokalt/skane/sbenska-akademiens-ordbok-finansieringen-oviss-efter-bokstaven-o)\*! Efter endast blygsamma 140 år har [Svenska Akademiens ordboks](https://svenska.se/saob) sist band [slutligen skickats till tryck](https://www.dn.se/kultur/svenska-akademiens-ordbok-ar-klar-efter-140-ar/). Detta monumentala ögonblick ger en tår i ögat på våra blbliotekarier - som ju kan nästan alla svenska ord -  och det uppmärksammas [givetvis även internationellt](https://www.theguardian.com/world/2023/oct/25/official-swedish-dictionary-completed-after-140-years), av [flera tidningar](https://www.thelocal.se/20231026/swedens-official-dictionary-completed-after-140-years?utm_source=dlvr.it&utm_medium=facebook&tpcc=facebook&fbclid=IwAR2CCyx7k6ALQq4ghN96fpqnUoI5qWqeKiMar6fo2EuRhOob9Y8j6OJKR44). I sanning ett stort ögonblick för alla som älskar språk, kultur, historia och det fantastiska ordet "öxla" (_fortplantas, föröka - besläktat meda"öka" / [Jewert](https://rebbetuapodd.se/personal/)_).

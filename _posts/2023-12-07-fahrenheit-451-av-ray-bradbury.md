@@ -3,7 +3,9 @@ title: "Fahrenheit 451 av Ray Bradbury"
 date: 2023-12-07
 categories: 
   - "poddavsnitt"
-coverImage: "2.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/2.jpg
+  teaser: /rebbetuapodd_jekyll/images/2.jpg
 ---
 
 Idag far vi inte till rymden, men nära nog! Typ. Vi gör något så uselt som att bränna böcker. Eller - läser om att bränna böcker i [Fahrenheit 451](https://sv.wikipedia.org/wiki/Fahrenheit_451) av [Ray Bradbury](https://sv.wikipedia.org/wiki/Ray_Bradbury). Den amerikanske författaren, som skrev [ohemult mycket i alla möjliga genrer,](https://en.wikipedia.org/wiki/Ray_Bradbury_bibliography) är nog kanske mest känd för det verk som dagens poddavsnitt avhandlar. Temat är censur av böcker - mycket bokstavligen med fotogen och eld - och vidrör väldigt moderna fenomen som woke och självcensur.

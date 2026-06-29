@@ -3,7 +3,9 @@ title: "A Christmas Carol av Charles Dickens"
 date: 2023-12-20
 categories: 
   - "poddavsnitt"
-coverImage: "ai-generated-image-three-ghosts-christmas-carol.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/ai-generated-image-three-ghosts-christmas-carol.jpg
+  teaser: /rebbetuapodd_jekyll/images/ai-generated-image-three-ghosts-christmas-carol.jpg
 ---
 
 Idag har vi på podden Biblioteket i Rebbetuaröd läst den kanske mest klassiska julsagan i världshistorien -  en julsaga av Charles Dickens, eller A Christmas Carol (1843) på originalspråk.

@@ -3,7 +3,9 @@ title: "The Vegetarian (Vegetarianen) av Han Kang"
 date: 2024-10-13
 categories: 
   - "poddavsnitt"
-coverImage: "180115_r31276.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/180115_r31276.jpg
+  teaser: /rebbetuapodd_jekyll/images/180115_r31276.jpg
 ---
 
 안녕하십니까, kära lyssnare! Idag hälsar vi väldigt formellt, ty detta är en speciell podd. Nämligen en om den sydkoreanska författarinnan [Han Kang](https://en.wikipedia.org/wiki/Han_Kang) (som vi [redan berättat om](https://rebbetuapodd.se/han-kang-2024-ars-nobelpristagare-i-litteratur/)), som har den äran att ha vunnit 2024 års Nobelpris litteratur.

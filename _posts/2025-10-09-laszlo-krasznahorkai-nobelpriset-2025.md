@@ -3,7 +3,9 @@ title: "László Krasznahorkai, mottagare av Nobelpriset i litteratur 2025"
 date: 2025-10-09
 categories: 
   - "poddavsnitt"
-coverImage: "Krasznahorkai_Laszlo_Deri_Miklos.jpg.webp"
+header:
+  image: /rebbetuapodd_jekyll/images/Krasznahorkai_Laszlo_Deri_Miklos.jpg.webp
+  teaser: /rebbetuapodd_jekyll/images/Krasznahorkai_Laszlo_Deri_Miklos.jpg.webp
 ---
 
 László Krasznahorkai, mottagare av Nobelpriset i litteratur 2025, har länge betraktats som en av Europas mest visionära men också mest krävande författare. Han föddes 1954 i den lilla ungerska staden Gyula, i dåvarande Folkrepubliken Ungern. Uppväxten präglades av både intellektuell skärpa och en känsla av dolda lager: fadern, som var jurist, dolde familjens judiska bakgrund tills László var elva år gammal. Den erfarenheten kom att ge honom en tidig insikt i frågor om identitet, förklädnader och sanning. Efter studier i latin på gymnasiet började han läsa juridik i Szeged, men drogs snart mot litteraturen och fortsatte vid Eötvös Loránd-universitetet i Budapest. Där fördjupade han sig i ungersk litteratur och skrev sin avhandling om författaren Sándor Márai. Under studietiden arbetade han inom förlagsvärlden och fick tidigt en känsla för litteraturens hantverk och villkor.

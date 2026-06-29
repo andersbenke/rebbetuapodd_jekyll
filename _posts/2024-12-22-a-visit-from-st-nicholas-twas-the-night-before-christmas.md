@@ -3,7 +3,9 @@ title: "A Visit from St. Nicholas (Twas the Night Before Christmas)"
 date: 2024-12-22
 categories: 
   - "poddavsnitt"
-coverImage: "twasthenight.webp"
+header:
+  image: /rebbetuapodd_jekyll/images/twasthenight.webp
+  teaser: /rebbetuapodd_jekyll/images/twasthenight.webp
 ---
 
 ## Lyssna på poddavsnittet på Apple Podcasts

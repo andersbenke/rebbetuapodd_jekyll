@@ -3,7 +3,9 @@ title: "Neuromancer av William Gibson"
 date: 2024-04-02
 categories: 
   - "poddavsnitt"
-coverImage: "Neuromancer_book_cover.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/Neuromancer_book_cover.jpg
+  teaser: /rebbetuapodd_jekyll/images/Neuromancer_book_cover.jpg
 ---
 
 Välkomna till podcasten Biblioteket i Rebbetuaröd.

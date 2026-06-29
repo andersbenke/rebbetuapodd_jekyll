@@ -3,7 +3,9 @@ title: "Ett eget rum (A Room of One's Own) av Virginia Woolf (och för avsnittet
 date: 2024-01-17
 categories: 
   - "poddavsnitt"
-coverImage: "Virginia-Woolf-1.webp"
+header:
+  image: /rebbetuapodd_jekyll/images/Virginia-Woolf-1.webp
+  teaser: /rebbetuapodd_jekyll/images/Virginia-Woolf-1.webp
 ---
 
 Kära lyssnare och numer på allvar tittare - vi har fångats på film för första gången! Allt medan vi avhandlar den riktig skarpsinniga Ett eget rum av Virgina Woolf (och [fantastiskt uppläst av Natalie Dormer](https://www.youtube.com/watch?v=XNuaseHTX98)).

@@ -3,7 +3,9 @@ title: "Film: 20 million miles from Earth"
 date: 2024-03-04
 categories: 
   - "poddavsnitt"
-coverImage: "20_Million_Miles_to_Earth.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/20_Million_Miles_to_Earth.jpg
+  teaser: /rebbetuapodd_jekyll/images/20_Million_Miles_to_Earth.jpg
 ---
 
 Podcasten Biblioteket i Rebbetuaröd avhandlar i detta avsnitt rymdödlor (well, en (1) ovanligt storvuxen rymdödla från Venus), kvinnor som får panik och handlingskraftiga (amerikanska) män. Vi tar med er, kära lyssnare, till science fictionfilmernas guldålder, i vilken lökiga filmer av ytterst skiftande kvalitet och med ibland häpnandsväckande stop motion-effekter var kutym. I dagens film - [20 Million Miles to Earth](https://en.wikipedia.org/wiki/20_Million_Miles_to_Earth)  - är de tvenne skäggiga både imponerade och roade. Diskussionen kretsar kring ämnen  som  film, hantverk och hur långt ned elgitarrer egentligen kan åka.

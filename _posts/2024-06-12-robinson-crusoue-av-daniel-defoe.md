@@ -3,7 +3,9 @@ title: "Robinson Crusoue av Daniel Defoe"
 date: 2024-06-12
 categories: 
   - "poddavsnitt"
-coverImage: "Robinson_Crusoe_1719_1st_edition.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/Robinson_Crusoe_1719_1st_edition.jpg
+  teaser: /rebbetuapodd_jekyll/images/Robinson_Crusoe_1719_1st_edition.jpg
 ---
 
 I detta avsnitt av podden Biblioteket i Rebbetauröd, går vi till sjöss och misslyckas förstå storheten med en av tidernas mest kända och lästa klassiker. De tvenne skäggiga bibliotekarierna har, som vanligt i vår podd, läst första kapitlet (eller så) av denna klassiker och undrar verkligen varför den fortsätter vara populär än idag. I synnerhet i skolor. I synnerhet som synen på - låt oss säga - andra än vita personer är något förlegad. Något.

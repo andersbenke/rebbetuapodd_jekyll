@@ -3,7 +3,9 @@ title: "Häxan av Camilla Läckberg"
 date: 2023-10-24
 categories: 
   - "poddavsnitt"
-coverImage: "Camilla_Lackberg_at_Goteborg_Book_Fair_2013_03.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/Camilla_Lackberg_at_Goteborg_Book_Fair_2013_03.jpg
+  teaser: /rebbetuapodd_jekyll/images/Camilla_Lackberg_at_Goteborg_Book_Fair_2013_03.jpg
 ---
 
 I detta avsnitt av podcasten Biblioteket i Rebbetuaröd, tar poddens två skäggige män sig an en bokgenre vi ej berört förut - nämligen deckare. Spänningsromanens kittlande och spännande värld. Närmare bestämt har vi läst (nå, lyssnat på som ljudbok) Camilla Läckberg och hennes roman Häxan.

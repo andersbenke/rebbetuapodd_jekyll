@@ -3,7 +3,9 @@ title: "Den unge Werthers lidanden av Johann Wolfgang von Goethe"
 date: 2025-01-19
 categories: 
   - "poddavsnitt"
-coverImage: "goethe.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/goethe.jpg
+  teaser: /rebbetuapodd_jekyll/images/goethe.jpg
 ---
 
 Är Werther världens förste incel? Vad är en rövarroman? På en skala från Sturm till Drang, hur mycket led dina favoritbibliotekarier av att läsa detta verk? Få svar på det och mycket annat i vår recension av Goethes kända verk.

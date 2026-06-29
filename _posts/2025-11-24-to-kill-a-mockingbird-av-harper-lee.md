@@ -3,7 +3,9 @@ title: "To Kill a Mockingbird av Harper Lee"
 date: 2025-11-24
 categories: 
   - "poddavsnitt"
-coverImage: "atticus-fran-kill-a-mockingbird-av-Harper-Lee.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/atticus-fran-kill-a-mockingbird-av-Harper-Lee.jpg
+  teaser: /rebbetuapodd_jekyll/images/atticus-fran-kill-a-mockingbird-av-Harper-Lee.jpg
 ---
 
 Man bör ej döda en amerikansk härmfågel - men varför inte? Det tar vi upp i detta poddavsnitt av litteraturpodden Biblioteket i Rebbetuaröd, när vi avhandlar [](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)**[To Kill a Mockingbird](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)** av **[Harper Lee.](https://en.wikipedia.org/wiki/Harper_Lee)** Vi berättar också varför vi ej tog upp årets Nobelpris i litteratur.

@@ -3,7 +3,9 @@ title: "Film: Pansarkryssaren Potemkin (Battleship Potemkin)"
 date: 2023-12-10
 categories: 
   - "poddavsnitt"
-coverImage: "Vintage_Potemkin.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/Vintage_Potemkin.jpg
+  teaser: /rebbetuapodd_jekyll/images/Vintage_Potemkin.jpg
 ---
 
 Poddens andra filmavsnitt! Denna gång har vi gått några decennier tillbaka i tiden relativt vår [första filmrecension](https://rebbetuapodd.se/lawrence-of-arabia-var-forsta-filmrecension/). Nämligen en riktig svartvit stumfilmsklassiker - [Pansarkryssaren Potemkin](https://sv.wikipedia.org/wiki/Pansarkryssaren_Potemkin), i regi av [Sergej Eisenstein](https://sv.wikipedia.org/wiki/Sergej_Eisenstein#).

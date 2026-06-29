@@ -3,7 +3,9 @@ title: "2024 års Hugo Awards!"
 date: 2024-08-13
 categories: 
   - "nyheter"
-coverImage: "Hugo_Award_Logo.png"
+header:
+  image: /rebbetuapodd_jekyll/images/Hugo_Award_Logo.png
+  teaser: /rebbetuapodd_jekyll/images/Hugo_Award_Logo.png
 ---
 
 Ja, kära sci-fi-älskare, nu har vinnarna i [2024 års Hugo Awards korats](https://www.thehugoawards.org/hugo-history/2024-hugo-awards/)!

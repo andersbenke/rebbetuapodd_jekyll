@@ -3,7 +3,9 @@ title: "Idag är läromedlets dag #läromedletsdag."
 date: 2023-11-08
 categories: 
   - "nyheter"
-coverImage: "nils_holgersson_remix.jpg"
+header:
+  image: /rebbetuapodd_jekyll/images/nils_holgersson_remix.jpg
+  teaser: /rebbetuapodd_jekyll/images/nils_holgersson_remix.jpg
 ---
 
 Biblioteket i Rebbetuaröd välkomnar varmt [Läromedlets dag den 8 november](https://www.laromedelsforfattarna.se/laromedletsdag?fbclid=IwAR1b6hJ67EpQMEy26qgOIKHvw30Wdk0qMRhPuf4NnrMnSfUy_h-DoJL7QHY), en dag som ger oss anledning att hylla utmärkta läromedel och deras betydelse i utbildning. Vi vill även uppmärksamma Selma Lagerlöfs fantastiska bok, Nils Holgerssons underbara resa genom Sverige som är mycket relevant för denna särskilda dag.
