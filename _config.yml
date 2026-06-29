@@ -1,0 +1,10 @@
+title: Biblioteket i Rebbetuaröd
+theme: minima
+plugins:
+  - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
