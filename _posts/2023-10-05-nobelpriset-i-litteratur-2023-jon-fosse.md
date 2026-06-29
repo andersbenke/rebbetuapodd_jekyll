@@ -5,7 +5,7 @@ categories:
   - "nyheter"
 ---
 
-\[caption id="attachment\_935" align="alignnone" width="1200"\]![Jon Fosse, vinnare av nobelpriset i litteratur 2023](images/Writer_Jon_Fosse.jpg) Jon Fosse, vinnare av nobelpriset i litteratur 2023\[/caption\]
+\[caption id="attachment\_935" align="alignnone" width="1200"\]![Jon Fosse, vinnare av nobelpriset i litteratur 2023](/rebbetuapodd_jekyll/images/Writer_Jon_Fosse.jpg) Jon Fosse, vinnare av nobelpriset i litteratur 2023\[/caption\]
 
 Nobelpriset 2023 i litteratur går till den norske författaren och dramatikern [Jon Fosse](https://www.nobelprize.org/prizes/literature/2023/bio-bibliography/) [med motiveringen](https://www.svenskaakademien.se/nobelpriset/2023) _”för hans nyskapande dramatik och prosa som ger röst åt det osägbara.”_
 
@@ -61,7 +61,7 @@ Jon Fosse har mottagit många priser och utmärkelser för sitt arbete. Till des
 
 Andra erkännanden av Fosses storhet som författare och dramatiker inkluderar Ibenspriset och såklart 2023 Nobelpriset i littartur. Hans arbete har blivit en viktig del av den samtida norska litteraturen och en värdefull bidragsgivare till den globala litteraturen.
 
-\[caption id="attachment\_949" align="aligncenter" width="500"\]![Den norske 2023 års vinnare av Nobelpriset i litteratur - Jon Fosse - tillsammans med Norges dåvarande statsminister Erna Solberg, i samband med Fosse vann Nordisk rådets Litteraturpris 2015. Erna Solberg står vänster i bild en blå festklänning och Jon Fosse till höger med en bukett orange blommor i handen.](images/jon-fosse-med-statminister-erna-solberg.jpg) Jon Fosse tillsammans med den dåvarande norska statsministern Erna Solberg, i samband med att Fosse vann Nordiska Rådets litteraturpris 2015.\[/caption\]
+\[caption id="attachment\_949" align="aligncenter" width="500"\]![Den norske 2023 års vinnare av Nobelpriset i litteratur - Jon Fosse - tillsammans med Norges dåvarande statsminister Erna Solberg, i samband med Fosse vann Nordisk rådets Litteraturpris 2015. Erna Solberg står vänster i bild en blå festklänning och Jon Fosse till höger med en bukett orange blommor i handen.](/rebbetuapodd_jekyll/images/jon-fosse-med-statminister-erna-solberg.jpg) Jon Fosse tillsammans med den dåvarande norska statsministern Erna Solberg, i samband med att Fosse vann Nordiska Rådets litteraturpris 2015.\[/caption\]
 
 ### Inflytande
 

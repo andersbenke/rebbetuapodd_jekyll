@@ -8,3 +8,4 @@ defaults:
       type: posts
     values:
       layout: post
+baseurl: "/rebbetuapodd_jekyll"
