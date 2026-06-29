@@ -4,8 +4,8 @@ date: 2024-10-10
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/512px-Bjorn_Ranelid.jpg
-  teaser: /rebbetuapodd_jekyll/images/512px-Bjorn_Ranelid.jpg
+  image: /images/512px-Bjorn_Ranelid.jpg
+  teaser: /images/512px-Bjorn_Ranelid.jpg
 ---
 
 Björn Ranelid. Ärligt talat - har du läst något av honom eller bara hört talas om karln och / eller sett herr Ranelid i sociala medier? Lite av sinnebilden av egensinnig författare med stor personlighet och - enligt honom själv i alla fall - större språk, är Björn Ranelid en av Sveriges mest i folklagren kända författare.

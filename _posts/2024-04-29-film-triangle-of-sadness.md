@@ -4,8 +4,8 @@ date: 2024-04-29
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/triangle-of-sadess-poster.jpg
-  teaser: /rebbetuapodd_jekyll/images/triangle-of-sadess-poster.jpg
+  image: /images/triangle-of-sadess-poster.jpg
+  teaser: /images/triangle-of-sadess-poster.jpg
 ---
 
 Välkommen till Biblioteket i Rebbetuaröd! I detta avsnitt utforskar vi den omtalade filmen "Triangle of Sadness". Vi skäggiga bibliotekarier tar vi dig med på en resa genom denna spännande och kontroversiella film.

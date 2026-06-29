@@ -4,8 +4,8 @@ date: 2023-12-20
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/ai-generated-image-three-ghosts-christmas-carol.jpg
-  teaser: /rebbetuapodd_jekyll/images/ai-generated-image-three-ghosts-christmas-carol.jpg
+  image: /images/ai-generated-image-three-ghosts-christmas-carol.jpg
+  teaser: /images/ai-generated-image-three-ghosts-christmas-carol.jpg
 ---
 
 Idag har vi på podden Biblioteket i Rebbetuaröd läst den kanske mest klassiska julsagan i världshistorien -  en julsaga av Charles Dickens, eller A Christmas Carol (1843) på originalspråk.

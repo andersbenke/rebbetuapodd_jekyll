@@ -4,8 +4,8 @@ date: 2025-11-24
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Allen-Ginsberg-performing-Howl.webp
-  teaser: /rebbetuapodd_jekyll/images/Allen-Ginsberg-performing-Howl.webp
+  image: /images/Allen-Ginsberg-performing-Howl.webp
+  teaser: /images/Allen-Ginsberg-performing-Howl.webp
 ---
 
 Howl slog ner som en störtslägga 1956. Allen Ginsberg skrev den i ett rytmiskt rus som vägrade försköna något: droger, sexualitet, psykisk sjukdom, religiösa hallucinationer, materiellt slaveri. I stället för att moralisera pekade han ut USA:s efterkrigsordning som den verkliga boven – ett maskineri av konsumtion och normalitetskrav som malde sönder “de bästa sinnena i min generation”. Dikten är både en protest och en klagosång: ett försvar av frihet, och en beskrivning av vad det kostar att leve den.

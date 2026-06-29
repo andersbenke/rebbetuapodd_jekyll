@@ -4,8 +4,8 @@ date: 2026-01-13
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Catcher-in-the-rye-2.webp
-  teaser: /rebbetuapodd_jekyll/images/Catcher-in-the-rye-2.webp
+  image: /images/Catcher-in-the-rye-2.webp
+  teaser: /images/Catcher-in-the-rye-2.webp
 ---
 
 ## Lyssna på podden om The Catcher in the Rye på Apple Music

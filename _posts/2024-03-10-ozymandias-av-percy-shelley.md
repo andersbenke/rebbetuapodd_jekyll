@@ -4,8 +4,8 @@ date: 2024-03-10
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/ozymandias-illustration.jpg
-  teaser: /rebbetuapodd_jekyll/images/ozymandias-illustration.jpg
+  image: /images/ozymandias-illustration.jpg
+  teaser: /images/ozymandias-illustration.jpg
 ---
 
 I detta avsnitt av poddcasten Biblioteket i Rebbetuaröd, drar vi iväg i känslor och romantik. Inte rosor och middag med ljus, dock,  utan den konstnärliga rörelse som föddes under 1800-talet, mitt i Napeolonkriget och begynnande industrialism. Närmare bestämt har vi läst den kanske mest klassiska av klassiska dikter - Ozymandias av Percy Shelley!

@@ -4,8 +4,8 @@ date: 2023-10-29
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/James_Fenimore_Cooper_by_Brady.jpg
-  teaser: /rebbetuapodd_jekyll/images/James_Fenimore_Cooper_by_Brady.jpg
+  image: /images/James_Fenimore_Cooper_by_Brady.jpg
+  teaser: /images/James_Fenimore_Cooper_by_Brady.jpg
 ---
 
 I dagens avsnitt av podcasten Biblioteket i Rebbetuaröd, avhandlar vi en klassisk amerikansk bok - Den siste Mohikanen (The Last of the Mohicans i original) av James Fenimore Cooper. Ni, kära lyssnare, får er till livs ord om ord, ord om språk, historia och lite - så att säga - äldre tiders uppfattningar om andra folkgrupper. Bland annat. Den siste Mohikanen är en klassiker av en anledning i USA - men är det av rätt anledning? Lyssna på vår podcast med tvenne skäggiga herrar och avgör själv..

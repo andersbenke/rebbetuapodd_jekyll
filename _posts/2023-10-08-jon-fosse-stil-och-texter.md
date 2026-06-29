@@ -4,8 +4,8 @@ date: 2023-10-08
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/jon-fosse.600w.webp
-  teaser: /rebbetuapodd_jekyll/images/jon-fosse.600w.webp
+  image: /images/jon-fosse.600w.webp
+  teaser: /images/jon-fosse.600w.webp
 ---
 
 Kära läsare och andra besökare! Ifall det på något trollskt vis har undgått er vem som vann Nobelpriset i litteratur 2023, var det alltså [Jon Fosse.](https://sv.wikipedia.org/wiki/Jon_Fosse) Norrman, författare (såklart) och dramatiker, som sannerligen kan sägas ha en helt egen litterär stil.

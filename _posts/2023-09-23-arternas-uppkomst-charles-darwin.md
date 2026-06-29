@@ -4,8 +4,8 @@ date: 2023-09-23
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/1173682-drawing-portrait-writing-emotion-Charles-Darwin-ART-sketch-album-cover-standard-scale-2_00x-gigapixel.jpg
-  teaser: /rebbetuapodd_jekyll/images/1173682-drawing-portrait-writing-emotion-Charles-Darwin-ART-sketch-album-cover-standard-scale-2_00x-gigapixel.jpg
+  image: /images/1173682-drawing-portrait-writing-emotion-Charles-Darwin-ART-sketch-album-cover-standard-scale-2_00x-gigapixel.jpg
+  teaser: /images/1173682-drawing-portrait-writing-emotion-Charles-Darwin-ART-sketch-album-cover-standard-scale-2_00x-gigapixel.jpg
 ---
 
 Var kommer två skäggiga män ifrån? Hur har livetsutvecklats från ödmjuk start i urslemmet? Denna bok är ursprunget till en revolution inom biologi och andra livsvetenskaper. Ett måste för alla vetenskapsintresserade - eller? Lyssna och avgör själv.

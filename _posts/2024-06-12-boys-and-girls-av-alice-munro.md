@@ -4,8 +4,8 @@ date: 2024-06-12
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/alice_munro.jpg
-  teaser: /rebbetuapodd_jekyll/images/alice_munro.jpg
+  image: /images/alice_munro.jpg
+  teaser: /images/alice_munro.jpg
 ---
 
 I detta avsnitt vår podcast - Biblioteket i Rebbetuaröd - har vi läst den hyllade och nyss avlidna Alice Munro (1931-2024). Denna namnkunniga kanadensiska novellförfattare är känd för sina utsökta noveller som utforskar sina karaktärers känsloliv. Hon tilldelades Nobelpriset i litteratur 2013.

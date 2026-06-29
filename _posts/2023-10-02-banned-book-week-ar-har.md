@@ -4,8 +4,8 @@ date: 2023-10-02
 categories: 
   - "nyheter"
 header:
-  image: /rebbetuapodd_jekyll/images/BBW-logo_07252021.webp
-  teaser: /rebbetuapodd_jekyll/images/BBW-logo_07252021.webp
+  image: /images/BBW-logo_07252021.webp
+  teaser: /images/BBW-logo_07252021.webp
 ---
 
 Nästa vecka - den 9 till 15 oktober - lanseras för första gången [Banned Books Week](https://www.svenskapen.se/banned-books) i Sverige. Den är avsedd att uppmärksamma, stödja och inte minst försvara det fria ordet, med ett fokus på [förbjudna böcker](https://www.svenskapen.se/lista-ver-frbjuden-litteratur). Ämnet har såklart [alltid varit aktuellt](https://sv.wikipedia.org/wiki/F%C3%B6rbjudna_b%C3%B6cker) men känns extra angeläget i dessa tider, i vilken allsköns mörkerkrafter vill bekämpa yttrandefriheten och förbjuda texter och böcker som upplevs som farliga eller ej önskvärda.

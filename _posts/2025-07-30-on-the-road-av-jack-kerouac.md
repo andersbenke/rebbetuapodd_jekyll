@@ -4,8 +4,8 @@ date: 2025-07-30
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Kerouac_by_Palumbo_2_cropped.png
-  teaser: /rebbetuapodd_jekyll/images/Kerouac_by_Palumbo_2_cropped.png
+  image: /images/Kerouac_by_Palumbo_2_cropped.png
+  teaser: /images/Kerouac_by_Palumbo_2_cropped.png
 ---
 
 I detta poddavsnitt av litteraturpodden Biblioteket i Rebbetuaröd  tar de två skäggiga poddvärdarna sig an en av  beatrörelsens huvudfigurerar och grundare - Jack Kerouac och hans beröma beat-bok On the Road. Vi vandrar längs samma dammiga och semibiografiska vägar i 50-talets USA, tar tempen på den tiden och undrar om inte en kollega i beatrörelsen faktiskt mycket medvetet skjöt sin fru.

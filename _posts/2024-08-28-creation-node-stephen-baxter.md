@@ -4,8 +4,8 @@ date: 2024-08-28
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/creation_node_stephen_baxter_book_cover.jpg
-  teaser: /rebbetuapodd_jekyll/images/creation_node_stephen_baxter_book_cover.jpg
+  image: /images/creation_node_stephen_baxter_book_cover.jpg
+  teaser: /images/creation_node_stephen_baxter_book_cover.jpg
 ---
 
 [Stephen Baxter](https://en.wikipedia.org/wiki/Stephen_Baxter_\(author\)) är en av de mest respekterade författarna inom hard science fiction. I detta avsnitt ska vi dyka ner i hans senaste verk, [_Creation Node_](https://www.goodreads.com/book/show/122854125-creation-node), och försöka förstå vad som gör hans böcker så populära. Vad är det som gör Baxters författarskap så speciellt? Hur lyckas han kombinera komplexa vetenskapliga koncept med spännande berättelser? Och vad kan vi lära oss av hans böcker om vår egen värld och våra egna liv i denna tid?

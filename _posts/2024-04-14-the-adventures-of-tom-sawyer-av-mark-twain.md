@@ -4,8 +4,8 @@ date: 2024-04-14
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Mark_Twain_by_AF_Bradley.jpg
-  teaser: /rebbetuapodd_jekyll/images/Mark_Twain_by_AF_Bradley.jpg
+  image: /images/Mark_Twain_by_AF_Bradley.jpg
+  teaser: /images/Mark_Twain_by_AF_Bradley.jpg
 ---
 
 I detta avsnitt av podcasten, avhandlar vi [Tom Sawyers äventyr](https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer)  av [Mark Twain](https://sv.wikipedia.org/wiki/Mark_Twain) (riktigt namn Samuel Langhorne Clemens). En pojke i den fiktiva lilla staden St. Petersburg, USA, och ett tvättäkta busfrö, hamnar i han lag med Huckleberry Finn och är med om allsköns äventyr. Den dråpliga och dramatiska berättelsen påstods av författaren Mark Tawin vara baserad på hans egen barndom, men andra källor från tiden menar att han blev åtminstone mycket inspirerad av berättelser han hörde från en riktig karaktär till kock som hette just Tom Sawyer. Di skäggiga tvenne tänker anta att inspirationen kom från alla möjliga källor men säger heller inte till en sådan namnkunnig kåsör som Twain fabulerade. Även om han antagligen hade skrockat åt påståendet.

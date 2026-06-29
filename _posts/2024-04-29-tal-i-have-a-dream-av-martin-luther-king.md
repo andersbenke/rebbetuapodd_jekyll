@@ -4,8 +4,8 @@ date: 2024-04-29
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Martin_Luther_King_Jr.jpg
-  teaser: /rebbetuapodd_jekyll/images/Martin_Luther_King_Jr.jpg
+  image: /images/Martin_Luther_King_Jr.jpg
+  teaser: /images/Martin_Luther_King_Jr.jpg
 ---
 
 Välkommen till podden Biblioteket i Rebbetuaröd! I detta avsnitt fördjupar vi oss i ett av historiens mest ikoniska tal - Martin Luther Kings "I Have a Dream". Vi tvenne skäggiga bibliotekarier tar vi dig med på en resa tillbaka till den historiska tidpunkten när detta tal hölls och utforskar dess betydelse och arv.

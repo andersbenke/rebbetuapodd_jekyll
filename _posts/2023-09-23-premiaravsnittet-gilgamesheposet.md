@@ -4,8 +4,8 @@ date: 2023-09-23
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/gilg.jpg
-  teaser: /rebbetuapodd_jekyll/images/gilg.jpg
+  image: /images/gilg.jpg
+  teaser: /images/gilg.jpg
 ---
 
 Poddens första avsnitt! I vilket två skäggiga bibliotekarier läser om två mycket äldre skäggiga herrar och deras äventyr för länge, länge sedan. Gilgamesheposet, med Gilgamesh och Enkidu är en av världens äldsta berättelser. Gudar, hjältar, mansbrottning!

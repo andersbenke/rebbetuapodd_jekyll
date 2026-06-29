@@ -4,8 +4,8 @@ date: 2024-11-03
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Agatha_Christie.png
-  teaser: /rebbetuapodd_jekyll/images/Agatha_Christie.png
+  image: /images/Agatha_Christie.png
+  teaser: /images/Agatha_Christie.png
 ---
 
 I detta avsnitt av podcasten Biblioteket i Rebbetuaröd, blir det extra spännade, när vi avhandlar en av detektivromanernas giganter- [Agatha Christie.](https://sv.wikipedia.org/wiki/Agatha_Christie) Vi har läst [Agatha Christies Fem Små Grisar (Five Little Pigs)](https://sv.wikipedia.org/wiki/Fem_sm%C3%A5_grisar) och kommit fram till att vi åtminstone förstår varför Agatha Christie anses av ungefär hela världen vara en av de största deckarförfattarna någonsin.

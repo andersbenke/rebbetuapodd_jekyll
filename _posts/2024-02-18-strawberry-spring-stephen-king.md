@@ -4,8 +4,8 @@ date: 2024-02-18
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/stephen-king-01.webp
-  teaser: /rebbetuapodd_jekyll/images/stephen-king-01.webp
+  image: /images/stephen-king-01.webp
+  teaser: /images/stephen-king-01.webp
 ---
 
 I detta avsnitt av litteraturpodden Biblioteket i Rebbetuaröd, kurar vi oss ihopa, kära lyssnare, med den moderna skräckens krönte mästare - [Stephen King](https://sv.wikipedia.org/wiki/Stephen_King) och hans korta novell Strawberry Spring. Det blir inga kylskåp som äter barn eller hundar som terroriserar städer, dock. Fasan finns där men på ett mer lågmält vis. En brutal mördare hemsöker ett campus i New England och vi följer en berättare och den så att säga täta stämningen som uppstår.

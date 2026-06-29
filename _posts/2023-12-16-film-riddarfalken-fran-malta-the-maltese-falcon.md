@@ -4,8 +4,8 @@ date: 2023-12-16
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/The_Maltese_Falcon_1941_film_poster.jpg
-  teaser: /rebbetuapodd_jekyll/images/The_Maltese_Falcon_1941_film_poster.jpg
+  image: /images/The_Maltese_Falcon_1941_film_poster.jpg
+  teaser: /images/The_Maltese_Falcon_1941_film_poster.jpg
 ---
 
 Idag blir det hårdkokt på  podden. Kortfattade män. Kvinnor som gråter. Med en dolk bakom ryggen. Vi har nämligen sett noir-klassikern [Riddarfalken från Malta (The Maltese Falcon)](https://sv.wikipedia.org/wiki/Riddarfalken_fr%C3%A5n_Malta), i regi av John Houston och med en mycket hårdkokt (torr gula!) Humphrey Bogart.

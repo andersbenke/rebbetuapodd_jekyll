@@ -4,8 +4,8 @@ date: 2023-09-23
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/curie.jpg
-  teaser: /rebbetuapodd_jekyll/images/curie.jpg
+  image: /images/curie.jpg
+  teaser: /images/curie.jpg
 ---
 
 Med Marie Curies upptäckt av radium och andra radioaktiva ämnen trodde vetenskapen på en strålande framtid. Blev det så och vad hon att säga om processen och vägen från upptäckt till att utforska radiums egenskaper? Två skäggiga män tar del av en stor venskapskvinnas ord och åsikter.

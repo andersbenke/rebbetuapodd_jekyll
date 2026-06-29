@@ -4,8 +4,8 @@ date: 2023-12-13
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/vredens_druvor_webb.jpg
-  teaser: /rebbetuapodd_jekyll/images/vredens_druvor_webb.jpg
+  image: /images/vredens_druvor_webb.jpg
+  teaser: /images/vredens_druvor_webb.jpg
 ---
 
 Hallå kära lyssnare! Denne onsdag tar vår podcast upp [John Steinbecks](https://sv.wikipedia.org/wiki/John_Steinbeck) klassiker [Vredens Druvor](https://sv.wikipedia.org/wiki/Vredens_druvor), som är en samhällskritisk roman från 1939 som skildrar den amerikanska depressionen. Familjen Joad tvingas lämna sin gård i Oklahoma och ge sig av till Kalifornien i hopp om ett bättre liv. I Kalifornien möter de fattigdom, utnyttjande och diskriminering. Romanen är en mäktig skildring av en svår tid i USA:s historia och ett starkt försvar för arbetares rättigheter.

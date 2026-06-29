@@ -4,8 +4,8 @@ date: 2024-11-10
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Transtroemer.jpg
-  teaser: /rebbetuapodd_jekyll/images/Transtroemer.jpg
+  image: /images/Transtroemer.jpg
+  teaser: /images/Transtroemer.jpg
 ---
 
 I detta avsnitt av den litterära podcasten Biblioteket i Rebbetuaröd, har vi läst dikter av den [svenske mycket hyllade poeten och Nobelpristagaren Tomas Tranströmer](https://sv.wikipedia.org/wiki/Tomas_Transtr%C3%B6mer). Jag tror att alla som lyssnar på vår podcast är åtminstone något bekant med herr Tranströmer. Hans minimalistiska och ofta ögonblicksfokuserade poesi passar så att säga alla skor. Passar den de skäggigas bekväma men praktiska bibliotekarieskor? Lyssna på poddavsnittet så får du veta!

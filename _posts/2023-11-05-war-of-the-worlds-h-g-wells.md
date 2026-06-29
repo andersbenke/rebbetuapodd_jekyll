@@ -4,8 +4,8 @@ date: 2023-11-05
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/H.G._Wells_by_Beresford-1.jpg
-  teaser: /rebbetuapodd_jekyll/images/H.G._Wells_by_Beresford-1.jpg
+  image: /images/H.G._Wells_by_Beresford-1.jpg
+  teaser: /images/H.G._Wells_by_Beresford-1.jpg
 ---
 
 I detta avsnitt av podcasten Biblioteket i Rebbetuaröd, rör vi oss ut i rymden. Eller - rymden rör sig till oss! Även om vi _blickar_ mot... Vad vi försöker säga är att marsianerna kommer till oss, med dåliga avsikter. Allt beskrivet i [H G Wells War of the Worlds (Världarnas Krig)](https://sv.wikipedia.org/wiki/V%C3%A4rldarnas_krig). Detta tidiga och grundläggande sci-fi verk är med rätta en klassiker. En av de skäggiga herrarna har mycket att säga om sin favoritgenre science fiction. Om de också gillar boken? Lyssna på vår podd så får du se.

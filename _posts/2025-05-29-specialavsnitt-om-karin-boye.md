@@ -4,8 +4,8 @@ date: 2025-05-29
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Karin-Boye.jpeg
-  teaser: /rebbetuapodd_jekyll/images/Karin-Boye.jpeg
+  image: /images/Karin-Boye.jpeg
+  teaser: /images/Karin-Boye.jpeg
 ---
 
 Två skäggiga män tar sig an en nationalklenod. Sveriges svar på Virginia Woolf antyds lite i dagens avsnitt. Och hur var egentligen hennes koppling till Richard Chamberlain? Kanske hade hon också blivit än mer vida känd än ändå blev i Sverige. Lyssna på hur vi spekulerar och analyserar om Karin Boyes dikter och andra texter.

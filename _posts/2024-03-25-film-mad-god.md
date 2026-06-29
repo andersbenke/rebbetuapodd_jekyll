@@ -4,8 +4,8 @@ date: 2024-03-25
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/madgodthumb-1627430216810.jpg
-  teaser: /rebbetuapodd_jekyll/images/madgodthumb-1627430216810.jpg
+  image: /images/madgodthumb-1627430216810.jpg
+  teaser: /images/madgodthumb-1627430216810.jpg
 ---
 
 Häng med podcasten Biblioteket i Rebbetuaröd ned i en resa i vansinnet - bokstavligen, bildligt, symboliskt och på alla sätt och vis. Vi har sett och diskuterat kanske den mest tekniskt avancerade stop motion filmen någonsin - [Mad God](https://en.wikipedia.org/wiki/Mad_God) av [Phil Tippett](https://en.wikipedia.org/wiki/Phil_Tippett) (som har gjort effekter till bland annat Robocop & Jurassic Park).

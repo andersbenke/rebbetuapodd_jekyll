@@ -4,8 +4,8 @@ date: 2024-04-02
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Neuromancer_book_cover.jpg
-  teaser: /rebbetuapodd_jekyll/images/Neuromancer_book_cover.jpg
+  image: /images/Neuromancer_book_cover.jpg
+  teaser: /images/Neuromancer_book_cover.jpg
 ---
 
 Välkomna till podcasten Biblioteket i Rebbetuaröd.

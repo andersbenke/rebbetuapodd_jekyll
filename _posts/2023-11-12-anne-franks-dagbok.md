@@ -4,8 +4,8 @@ date: 2023-11-12
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/anne-frank.jpg
-  teaser: /rebbetuapodd_jekyll/images/anne-frank.jpg
+  image: /images/anne-frank.jpg
+  teaser: /images/anne-frank.jpg
 ---
 
 Vi har läst (hela) [Anne Franks dagbok](https://sv.wikipedia.org/wiki/Anne_Franks_dagbok) (även känd som Anne Frank: The Diary of a Young Girl  och Het Achterhuis ("Gårdshuset")). Det bör du och alla du känner göra också. Igen, om ni redan läst den.

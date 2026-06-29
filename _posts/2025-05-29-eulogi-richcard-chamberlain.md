@@ -4,8 +4,8 @@ date: 2025-05-29
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Richard-Chamberlain-1934-2025.jpg.jpg
-  teaser: /rebbetuapodd_jekyll/images/Richard-Chamberlain-1934-2025.jpg.jpg
+  image: /images/Richard-Chamberlain-1934-2025.jpg.jpg
+  teaser: /images/Richard-Chamberlain-1934-2025.jpg.jpg
 ---
 
 Idag minns vi får vän, förebild och mentor som gick bort för ett tag sedan. Vi har genom poddens existens sagt allehanda ting om denne fantastiske samurai, skådespelare, grisfarmare och lerkoppskreatör - inte allt alltid nödvändigt vis sant. Här följer i alla fall sann fakta om mannen som ägde världens värsta största struts under några hektiska år i Georgien - och såklart mannen i podden Biblioteket i Rebbetuaröds egna ord, som de tvenne skäggiga bibliotekarier minns honom.

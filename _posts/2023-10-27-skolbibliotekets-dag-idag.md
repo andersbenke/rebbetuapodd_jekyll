@@ -4,8 +4,8 @@ date: 2023-10-27
 categories: 
   - "nyheter"
 header:
-  image: /rebbetuapodd_jekyll/images/skolbibliotekens_dag.jpg
-  teaser: /rebbetuapodd_jekyll/images/skolbibliotekens_dag.jpg
+  image: /images/skolbibliotekens_dag.jpg
+  teaser: /images/skolbibliotekens_dag.jpg
 ---
 
 Idag, den 27 oktober, [infaller skolbibliotekets dag](https://skolbiblioteksgruppen.wordpress.com/skolbibliotekets-dag/)! Det tycker vi på Rebbetuaröds bibliotek bör både uppmärksammas och hyllas.

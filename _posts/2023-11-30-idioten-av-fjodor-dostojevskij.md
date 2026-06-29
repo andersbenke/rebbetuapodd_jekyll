@@ -4,8 +4,8 @@ date: 2023-11-30
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/dostoevsky-cropped-2e3e59.jpg
-  teaser: /rebbetuapodd_jekyll/images/dostoevsky-cropped-2e3e59.jpg
+  image: /images/dostoevsky-cropped-2e3e59.jpg
+  teaser: /images/dostoevsky-cropped-2e3e59.jpg
 ---
 
 Privet, kära lyssnare! I denna veckas poddavsnitt från pocasten Biblioteket i Rebbetuaröd har vi avhandlat en klassisk rysk roman - [Idioten](https://sv.wikipedia.org/wiki/Idioten) av [Fjodor Dostojevskij](https://sv.wikipedia.org/wiki/Fjodor_Dostojevskij). Varför kallas den så? Inte ens de två skäggiga herrarna verkar helt på det klara med det...

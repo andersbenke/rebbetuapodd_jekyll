@@ -4,8 +4,8 @@ date: 2024-10-13
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Portrait_de_Dante.jpg
-  teaser: /rebbetuapodd_jekyll/images/Portrait_de_Dante.jpg
+  image: /images/Portrait_de_Dante.jpg
+  teaser: /images/Portrait_de_Dante.jpg
 ---
 
 Uppgiven allt hopp, I som ej lyssnen på detta avsnitt av vår podcast! Vi har nämligen läst [Inferno](https://sv.wikipedia.org/wiki/Dantes_helvete) av ingen mindre än [Dante Alighieri](https://sv.wikipedia.org/wiki/Dante_Alighieri), den moderna italienskans fader och av de första att skriva episka verk på annat än latin eller grekiska. Följ med oss på väg till syndernas belöning, det slutgiltiga straffet - Inferno, helvetets bråddjup.

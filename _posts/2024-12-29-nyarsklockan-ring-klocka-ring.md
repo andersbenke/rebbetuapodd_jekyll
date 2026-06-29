@@ -4,8 +4,8 @@ date: 2024-12-29
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/Alfred_Lord_Tennyson_1869.jpg
-  teaser: /rebbetuapodd_jekyll/images/Alfred_Lord_Tennyson_1869.jpg
+  image: /images/Alfred_Lord_Tennyson_1869.jpg
+  teaser: /images/Alfred_Lord_Tennyson_1869.jpg
 ---
 
 ## Lyssna på poddavsnittet på Spotify

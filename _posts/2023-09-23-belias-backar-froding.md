@@ -4,8 +4,8 @@ date: 2023-09-23
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/froding.jpg
-  teaser: /rebbetuapodd_jekyll/images/froding.jpg
+  image: /images/froding.jpg
+  teaser: /images/froding.jpg
 ---
 
 Han skrev en dikt som fick rättsväsendet att ryta till och gick naken med andra poeter. Två skäggiga bibliotekarier läser diktaren och fritänkaren Gustaf Fröding. Få dig till livs lite tvättäkta svensk poesi du med.

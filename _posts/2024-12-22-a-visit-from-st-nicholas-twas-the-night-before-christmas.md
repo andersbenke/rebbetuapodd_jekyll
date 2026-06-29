@@ -4,8 +4,8 @@ date: 2024-12-22
 categories: 
   - "poddavsnitt"
 header:
-  image: /rebbetuapodd_jekyll/images/twasthenight.webp
-  teaser: /rebbetuapodd_jekyll/images/twasthenight.webp
+  image: /images/twasthenight.webp
+  teaser: /images/twasthenight.webp
 ---
 
 ## Lyssna på poddavsnittet på Apple Podcasts
