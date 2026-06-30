@@ -1,0 +1,20 @@
+---
+# Empty front matter is required — it tells Jekyll to run Liquid and compile this file.
+---
+
+@charset "utf-8";
+
+// ── SCSS VARIABLE overrides go ABOVE the imports ──────────────
+// (the theme reads these as it compiles, so they must be set first)
+// e.g.  $primary-color: #8b2e2e;
+
+// ── Import the theme: your skin first, then the rest ──────────
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// ── PLAIN CSS rule overrides go BELOW the imports ─────────────
+// Cap the header banner so tall cover art stops eating the screen:
+.page__hero {
+  width: max(25%, 250px);
+  margin: auto;
+}
