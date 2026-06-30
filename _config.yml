@@ -1,6 +1,6 @@
 title: Biblioteket i Rebbetuaröd
 description: "Podden om klassikerna vi borde ha läst."
-locale: sv
+locale: "sv"
 date_format: "%Y-%m-%d"
 baseurl: "/rebbetuapodd_jekyll"
 
