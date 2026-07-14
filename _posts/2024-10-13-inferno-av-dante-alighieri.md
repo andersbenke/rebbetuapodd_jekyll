@@ -10,7 +10,7 @@ header:
 
 Uppgiven allt hopp, I som ej lyssnen på detta avsnitt av vår podcast! Vi har nämligen läst [Inferno](https://sv.wikipedia.org/wiki/Dantes_helvete) av ingen mindre än [Dante Alighieri](https://sv.wikipedia.org/wiki/Dante_Alighieri), den moderna italienskans fader och av de första att skriva episka verk på annat än latin eller grekiska. Följ med oss på väg till syndernas belöning, det slutgiltiga straffet - Inferno, helvetets bråddjup.
 
-![Klassiskt målning föreställande Inferno, helvetet, himlen och Paradiset med Dante Alighieri i förgrunden med sin bok Den gudomliga komedin.](/rebbetuapodd_jekyll/images/375px-Dante_Domenico_di_Michelino_Duomo_Florence.jpg)
+![Klassiskt målning föreställande Inferno, helvetet, himlen och Paradiset med Dante Alighieri i förgrunden med sin bok Den gudomliga komedin.](/images/375px-Dante_Domenico_di_Michelino_Duomo_Florence.jpg)
 
 ## Dante Alighieris Inferno - en djupdykning i helvetet
 
