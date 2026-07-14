@@ -2,7 +2,7 @@ title: Biblioteket i Rebbetuaröd
 description: "Podden om klassikerna vi borde ha läst."
 locale: "sv"
 date_format: "%Y-%m-%d"
-baseurl: "/rebbetuapodd_jekyll"
+url: "https://rebbetuapodd.se"
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin: "dark"
