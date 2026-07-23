@@ -13,7 +13,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
 
-paginator: true
 paginate: 10
 paginate_path: "/page:num/"
 
