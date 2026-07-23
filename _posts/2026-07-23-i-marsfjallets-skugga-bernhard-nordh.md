@@ -66,6 +66,18 @@ Att samme man skrev lämmelsoppan och en rad kluriga uppslagsord i veckopressen 
 - Lämmelsoppan
 - Fyra ordförklaringar ur lexikonet som vi läser upp utan förvarning
 
+## Lyssna på poddavsnittet på Spotify
+
+https://open.spotify.com/episode/0JX4x8dKOuKmOUggtmJ7E2
+
+## Lyssna på poddavsnittet på Apple Podcasts
+
+<iframe style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px;" src="https://embed.podcasts.apple.com/se/podcast/i-marsfj%C3%A4llets-skugga-av-bernhard-nordh/id1706156838?i=1000778029875" height="175" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
+
+<!-- ## Se poddavsnittet på YouTube
+
+<iframe width="660" height="371" src="https://www.youtube.com/embed/VIDEO_ID" title="I Marsfjällets skugga av Bernhard Nordh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+
 ## Källor och vidare läsning
 
 - [Bernhard Nordh-sällskapet](https://www.bernhardnordh.se/) — sällskapets sidor om författarskapet, årsskrifter och Marsliden
