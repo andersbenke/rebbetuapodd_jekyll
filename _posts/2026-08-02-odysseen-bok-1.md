@@ -1,14 +1,17 @@
 ---
-layout: post
 title: "Odysséen, Bok I — hemkomsten som aldrig börjar"
 date: 2026-08-02
 categories: [poddavsnitt, antiken]
 tags: [odysséen, homeros, grekisk-mytologi, episk-diktning]
-image: /images/odysseen-bok-1-hemkomsten-header.jpg
-alt: "Antik grekisk kungasal vid skymning med tomt tronrum och havsutsikt — illustration till Odysséen bok I"
+
+header:
+  image: /images/odysseen-bok-1-hemkomsten-header.jpg
+  teaser: /images/odysseen-bok-1-hemkomsten-header.jpg
 ---
 
 Vi öppnar säsongens första riktiga djupdykning i antikens litteratur med det mest naturliga startskottet som finns: **Homeros Odyssé, bok I**. Innan vi ens hunnit möta Odysseus själv har vi redan fått gudarnas maktspel, en son som måste bli man, och en hustru omringad av giriga friare. Här är bakgrunden till avsnittet — för er som vill ha koll på namnen innan ni lyssnar, eller fördjupa er efteråt.
+
+
 
 ## En hjälte som inte är med
 
