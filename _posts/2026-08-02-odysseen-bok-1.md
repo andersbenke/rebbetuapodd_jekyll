@@ -11,6 +11,13 @@ header:
 
 Vi öppnar säsongens första riktiga djupdykning i antikens litteratur med det mest naturliga startskottet som finns: **Homeros Odyssé, bok I**. Innan vi ens hunnit möta Odysseus själv har vi redan fått gudarnas maktspel, en son som måste bli man, och en hustru omringad av giriga friare. Här är bakgrunden till avsnittet — för er som vill ha koll på namnen innan ni lyssnar, eller fördjupa er efteråt.
 
+## Lyssna på poddavsnittet på YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XHiV8mVMyFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin-bottom: 40px;"></iframe>
+
+
+## Lyssna på poddavsnittet på Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5UXSS4Yr4k4OgdQHxZ0j8w?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
 ## En hjälte som inte är med
