@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "A Clockwork Orange (En apelsin med urverk): Anthony Burgess och det fria valets pris"
 date: 2026-08-23 09:00:00 +0200
-author: "Rebbetu"
 categories: [litteratur, dystopi]
 tags: [Anthony Burgess, "A Clockwork Orange", "En apelsin med urverk", Nadsat, dystopi, moralfilosofi, 1900-talslitteratur, Kubrick]
 description: "Om mannen som trodde han skulle dö inom ett år och skrev en av 1900-talets mest missförstådda romaner på det – hans påhittade slangspråk, det tolfte kapitlet som USA vägrade trycka, och frågan om ett ont val ändå är mer mänskligt än ett gott som tvingats fram."
