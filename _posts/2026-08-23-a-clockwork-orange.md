@@ -7,9 +7,9 @@ categories: [litteratur, dystopi]
 tags: [Anthony Burgess, "A Clockwork Orange", "En apelsin med urverk", Nadsat, dystopi, moralfilosofi, 1900-talslitteratur, Kubrick]
 description: "Om mannen som trodde han skulle dö inom ett år och skrev en av 1900-talets mest missförstådda romaner på det – hans påhittade slangspråk, det tolfte kapitlet som USA vägrade trycka, och frågan om ett ont val ändå är mer mänskligt än ett gott som tvingats fram."
 excerpt: "Anthony Burgess skrev A Clockwork Orange (En apelsin med urverk) på tre veckor, i vad han trodde var sitt sista levnadsår. Boken han lämnade efter sig handlar mindre om våld än om vad våldet kostar oss att ta bort."
-image: /assets/images/a-clockwork-orange.jpg
-image_alt: "Ett öga hålls tvångsöppet med metallklämmor framför en flimrande skärm, målat i syrligt gult och blodrött, i en stil som påminner om brittisk pop-art från sextiotalet."
-reading_time: 14
+header:
+  image: /images/a-clockwork-orange.jpg
+  teaser: /images/a-clockwork-orange.jpg
 lang: sv
 permalink: /artiklar/a-clockwork-orange-burgess/
 ---
