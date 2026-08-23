@@ -74,25 +74,6 @@ Det finns en särskild sorts orättvisa i litteraturhistorien som drabbar förfa
 
 ---
 
-### Bildprompt (för ComfyUI / Stable Diffusion)
-
-```
-British pop-art illustration, 1960s dystopian aesthetic, extreme close-up
-of a human eye held forcibly open by thin metal lid-clamps (Ludovico
-apparatus), acid yellow and blood-orange colour palette, high contrast,
-halftone screen-print texture like a Milton Glaser or Barnett/design
-poster, single bold serif letterform ghosted faintly in the background,
-grainy film-still quality, unsettling but not gory, no visible blood,
-no text, no logos, square composition, editorial illustration style,
-1:1 aspect ratio
-```
-
-**Negativ prompt:** *photorealistic gore, blood, disturbing realism, text, watermark, signature, extra limbs, distorted anatomy*
-
-**Stil-referens:** filmposterkonst från tidiga 70-talet (à la den ursprungliga *A Clockwork Orange*-teaterversionen), inte en direkt kopia av Kubrick-filmens ikonografi.
-
----
-
 ### Metadata (sammanfattning)
 
 | Fält | Värde |
