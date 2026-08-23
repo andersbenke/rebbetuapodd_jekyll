@@ -20,7 +20,6 @@ header:
   teaser: /images/a-clockwork-orange-anthony-burgess.jpg
   og_image: /images/a-clockwork-orange-anthony-burgess.jpg
   image_description: "Omslagsbild till poddavsnittet om A Clockwork Orange av Anthony Burgess i litteraturpodden Biblioteket i Rebbetuaröd."
-  caption: "Avsnitt TODO, säsong TODO av Biblioteket i Rebbetuaröd."
 toc: true
 toc_label: "Innehåll"
 toc_sticky: true
