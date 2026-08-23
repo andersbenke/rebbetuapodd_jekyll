@@ -15,7 +15,7 @@ permalink: /artiklar/a-clockwork-orange-burgess/
 ---
 
 **Lyssna på avsnittet:**
-[YouTube]() | [Apple Podcasts]() | [Spotify]()
+[YouTube](https://www.youtube.com/watch?v=xedWO9d-wHA) | [Apple Podcasts](https://podcasts.apple.com/se/podcast/a-clockwork-orange-av-anthony-burges/id1706156838?i=1000785291102) | [Spotify](https://open.spotify.com/episode/1sC5z9ux3Rc4uqqFvyQEhY)
 
 ## Mannen som skrev sig ur en dödsdom
 
