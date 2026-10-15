@@ -34,13 +34,13 @@ Vi på biblioteket i Rebbetuaröd har ägnat ett helt poddavsnitt åt Carsons li
 
 ## Lyssna på podavsnittet
 ### Spotify
-https://open.spotify.com/episode/388W50rNpDw0MsccpTh4lp
+[Litteraturpodden Biblioteket i Rebbetuaröds poddavsnitt på Spotify om Anne Carson, 2026 års vinnare av Nobelpriset i litteratur] (https://open.spotify.com/episode/388W50rNpDw0MsccpTh4lp)
 
 ### YouTube
-https://www.youtube.com/watch?v=xlbojw6KNns&t=165s
+[Litteraturpodden Biblioteket i Rebbetuaröds poddavsnitt på YouTube om Anne Carson, 2026 års vinnare av Nobelpriset i litteratur] (https://www.youtube.com/watch?v=xlbojw6KNns&t=165s)
 
 ### Apple Podcasts
-https://podcasts.apple.com/se/podcast/special-anne-carsson-nobelprisvinnare-i-litteratur-2026/id1706156838?i=1000796148524
+[Litteraturpodden Biblioteket i Rebbetuaröds poddavsnitt på Apple Podcasts om Anne Carson, 2026 års vinnare av Nobelpriset i litteratur] (https://podcasts.apple.com/se/podcast/special-anne-carsson-nobelprisvinnare-i-litteratur-2026/id1706156838?i=1000796148524)
 
 ## Anne Carson – en kort biografi
 
