@@ -1,8 +1,30 @@
 ---
-title: "Nobelpriset i litteratur 2026: Anne Carson och monstrets sida av saken"
-date: 2026-10-15
-categories: 
-  - "podd"
+title: "Anne Carson: Nobelpristagaren 2026 och monstrets sida av saken"
+excerpt: "Anne Carson lärde sig antik grekiska på lunchrasterna i gymnasiet och fick Nobelpriset i litteratur 2026. Hennes författarskap visar att grekernas hjältar aldrig var de förebilder vi gjort dem till, och att monstren ofta hade de bästa replikerna."
+description: "Om klassicisten som gör fotnoter till poesi och tar monstrets parti. Avsnittet tar upp Sapfos hakparenteser, Catullus och sorgen i Nox, Geryon i Röd självbiografi och Herakles som mördar sin familj. Och frågan varför vi har tvättat de grekiska hjältarna rena när grekerna själva aldrig gjorde det."
+date: 2026-10-15 09:00:00 +0200
+last_modified_at: 2026-10-15
+categories:
+  - poddavsnitt
+tags:
+  - Anne Carson
+  - Nobelpriset i litteratur
+  - Röd självbiografi
+  - Autobiography of Red
+  - grekisk mytologi
+  - hjältebegreppet
+  - Herakles
+  - Sapfo
+  - översättning
+  - samtidspoesi
+header:
+  image: /images/Anne_Carson_2024_National_Book_Awards.jpg
+  teaser: /images/Anne_Carson_2024_National_Book_Awards.jpg
+  og_image: /images/Anne_Carson_2024_National_Book_Awards.jpg
+  image_description: "Omslagsbild till poddavsnittet om Anne Carson, Nobelpristagare i litteratur 2026, i litteraturpodden Biblioteket i Rebbetuaröd."
+toc: true
+toc_label: "Innehåll"
+toc_sticky: true
 ---
 
 <figure>
