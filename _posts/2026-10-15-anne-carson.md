@@ -27,11 +27,6 @@ toc_label: "Innehåll"
 toc_sticky: true
 ---
 
-<figure>
-  <img src="/images/Anne_Carson_2024_National_Book_Awards.jpg" alt="Anne Carson, vinnare av Nobelpriset i litteratur 2026">
-  <figcaption>Anne Carson, vinnare av Nobelpriset i litteratur 2026</figcaption>
-</figure>
-
 Nobelpriset i litteratur 2026 går till den kanadensiska poeten, essäisten, översättaren och klassicisten [Anne Carson](https://www.nobelprize.org/prizes/literature/2026/summary/). Svenska Akademien belönar ett djärvt och infallsrikt författarskap som [enligt motiveringen](https://www.nobelprize.org/prizes/literature/2026/1929949-press-release-swedish/) har skapat nya former för samtidslitteraturen, _”i lekfull dialog med den klassiska traditionen”_.
 
 Vi på biblioteket i Rebbetuaröd har ägnat ett helt poddavsnitt åt Carsons liv och verk, och den här artikeln är en skriftlig följeslagare till det. I avsnittet fastnade vi för två saker i synnerhet: hennes närmast orimligt breda lärdom, och hur just den lärdomen avslöjar att vi i dag har missförstått vad en grekisk hjälte är.
